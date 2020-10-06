@@ -37,8 +37,11 @@ i {
   }
   .menu .logotext{
     margin-top: -5px !important;
-    margin-right: -30px !important;
-    transform: scale(0.7);
+    margin-right: 0px !important;
+    transform: scale(0.5);
+  }
+  .menu {
+    margin-left: -50px;
   }
   
 }
